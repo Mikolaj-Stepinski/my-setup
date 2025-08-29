@@ -4,3 +4,5 @@ PS1='\[\033[01;32m\]\w[`echo $?`]\$ \[\033[0m\]'
 
 HISTSIZE=10000
 HISTFILESIZE=10000
+
+alias rf='readlink -f'

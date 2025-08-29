@@ -1,6 +1,0 @@
-shardulm94.trailing-spaces
-streetsidesoftware.code-spell-checker
-ms-python.python
-ms-vscode.cpptools
-eamodio.gitlens
-mhutchie.git-graph

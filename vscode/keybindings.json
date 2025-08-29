@@ -1,0 +1,20 @@
+[
+  {
+    "key": "f5",
+    "command": "runCommands",
+    "args": {
+      "commands": [
+        "workbench.action.closeActiveEditor",
+        "workbench.action.reopenClosedEditor"
+      ]
+    }
+  },
+  {
+    "key": "f1",
+    "command": "git.revertSelectedRanges"
+  },
+  {
+    "key": "f2",
+    "command": "git.stageSelectedRanges"
+  }
+]
